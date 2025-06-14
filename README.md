@@ -20,7 +20,6 @@
 - Estudiante Universitario
 - Carrera de Ing.Sistemas y computación
 - Personal website [link](https://github.com/Ancajima)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Ancajima)
 
 <br><br>
 
@@ -139,7 +138,7 @@
 
 <div align='center'>
 
-## <b>السَّلاَمُ عَلَيْكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ...✨</b>
+
 
 </div>
 <br>
